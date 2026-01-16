@@ -60,9 +60,7 @@ Berikut adalah akun default untuk mengakses halaman admin (`/auth/login`):
 | Role | Username | Password |
 | :--- | :--- | :--- |
 | **Super Admin** | **admin** | **admin123** |
-| Super Admin (Alt) | reza | reza |
-| Admin | dian | dian |
-| Operator | prisko | 1234 |
+
 
 > **Catatan:** Password `admin` telah di-reset menggunakan hash bcrypt yang aman. Jika membuat user baru, sistem sekarang otomatis melakukan hashing password dengan benar.
 
