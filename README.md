@@ -73,4 +73,4 @@ Berikut adalah akun default untuk mengakses halaman admin (`/auth/login`):
 - **Logo:** Pembaruan logo sekolah transparan kualitas tinggi.
 
 ---
-Developed by Team.
+Developed by Nanan.
